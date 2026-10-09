@@ -1,0 +1,11 @@
+﻿  работа.c
+C:\Users\Matsu\source\repos\работа_4\работа_4\работа.c(14,2): warning C4013: task2: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Matsu\source\repos\работа_4\работа_4\работа.c(15,2): warning C4013: task3: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Matsu\source\repos\работа_4\работа_4\работа.c(16,2): warning C4013: homework: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\Matsu\source\repos\работа_4\работа_4\работа.c(29,9): warning C4476: "printf": неизвестный символ поля типа "\xd0" в описателе формата
+C:\Users\Matsu\source\repos\работа_4\работа_4\работа.c(26,6): warning C4101: intpart: неиспользованная локальная переменная
+C:\Users\Matsu\source\repos\работа_4\работа_4\работа.c(56,9): warning C4476: "printf": неизвестный символ поля типа "\xd0" в описателе формата
+C:\Users\Matsu\source\repos\работа_4\работа_4\работа.c(54,14): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\Matsu\source\repos\работа_4\работа_4\работа.c(69,9): warning C4476: "printf": неизвестный символ поля типа "\xd0" в описателе формата
+C:\Users\Matsu\source\repos\работа_4\работа_4\работа.c(97,1): warning C4716: homework: должна возвращать значение
+  работа_4.vcxproj -> C:\Users\Matsu\source\repos\работа_4\x64\Debug\работа_4.exe
