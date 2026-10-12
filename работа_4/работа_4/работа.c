@@ -4,12 +4,17 @@
 
 #include <stdio.h>
 
-task1();
+int task1();
+int task1();
+int task2();
+int task3();
+int homework();
 
 int main()
 
 {
 	setlocale(LC_ALL, "RUS");
+	task1();
 	task1();
 	task2();
 	task3();
@@ -20,10 +25,8 @@ int main()
 int task1()
 
 {
-	setlocale(LC_ALL, "RUS");
 	char c = '!';
 	int i = 2;
-	int intpart;
 	float f = 3.14f;
 	double d = 5e-12;
 	printf("задание1\n");
@@ -57,9 +60,9 @@ int task2()
 	printf("x = %d, y = %f, z = %17.15f\n", x, y, z);
 	printf("Так как a и b относятся к типу int, то результат их деления будет также целочисленным, независимо от типа переменной к которой она относится\n");
 	printf("\n");
-	printf("выполнил явные преобразования float и double\n");
+	printf("выполним явные преобразования float и double\n");
 	printf("x = %d, y = %f, z = %17.15f\n", a/b, (float)a/b, (double)a/b);
-	printf("int - вывод целочисленног результата float - вывод числа с плавающей точкой(без настроек чисел после запятой - 6) double - запоминает больше чисел чем float\n");
+	printf("int - вывод целочисленногj результата float - вывод числа с плавающей точкой(без настроек чисел после запятой - 6) double - запоминает больше чисел чем float\n");
 	return 0;
 }
 
